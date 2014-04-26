@@ -1,0 +1,15 @@
+﻿Build started 4/25/2014 7:10:56 PM.
+     1>Project "D:\ProjectAlpha\GameOne\cocos2d\cocos\audio\proj.win32\CocosDenshion.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files\Microsoft SDKs\Windows\v7.1A\include" /I..\Include /ID:\ProjectAlpha\GameOne\cocos2d\cocos\2d\..\..\cocos /ID:\ProjectAlpha\GameOne\cocos2d\cocos\2d\..\..\cocos\2d /ID:\ProjectAlpha\GameOne\cocos2d\cocos\2d\..\..\cocos\2d\renderer /ID:\ProjectAlpha\GameOne\cocos2d\cocos\2d\..\..\cocos\ui /ID:\ProjectAlpha\GameOne\cocos2d\cocos\2d\..\..\cocos\base /ID:\ProjectAlpha\GameOne\cocos2d\cocos\2d\..\..\cocos\physics /ID:\ProjectAlpha\GameOne\cocos2d\cocos\2d\..\..\cocos\math\kazmath /ID:\ProjectAlpha\GameOne\cocos2d\cocos\2d\..\..\cocos\2d\platform\win32 /ID:\ProjectAlpha\GameOne\cocos2d\cocos\2d\..\..\cocos\2d\platform\desktop /ID:\ProjectAlpha\GameOne\cocos2d\cocos\2d\..\..\external\glfw3\include\win32 /I"D:\ProjectAlpha\GameOne\cocos2d\cocos\2d\..\..\external\win32-specific\gles\include\OGLES" /ZI /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D _VARIADIC_MAX=10 /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc110.pdb" /Gd /TP /wd4251 /analyze- /errorReport:prompt ..\win32\MciPlayer.cpp ..\win32\SimpleAudioEngine.cpp
+         MciPlayer.cpp
+         SimpleAudioEngine.cpp
+       Lib:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"D:\ProjectAlpha\GameOne\proj.win32\Debug.win32\libAudio.lib" /NOLOGO Debug.win32\MciPlayer.obj
+         Debug.win32\SimpleAudioEngine.obj
+         CocosDenshion.vcxproj -> D:\ProjectAlpha\GameOne\proj.win32\Debug.win32\libAudio.lib
+     1>Done Building Project "D:\ProjectAlpha\GameOne\cocos2d\cocos\audio\proj.win32\CocosDenshion.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:02:54.73
